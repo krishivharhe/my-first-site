@@ -1,11 +1,2 @@
 # my-first-site
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Krishiv's First Site</title>
-</head>
-<body>
-  <h1>I am Krishiv and this is my first deployed website.</h1>
-  <p>If you're reading this, it's live on the internet.</p>
-</body>
-</html>
+
